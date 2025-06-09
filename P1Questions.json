@@ -1,0 +1,794 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "context": "",
+            "question": "¿Qué son los materiales? Enumera ocho materiales de ingeniería comúnmente encontrados."
+        },
+        {
+            "id": 2,
+            "context": "",
+            "question": "¿Cuáles son las principales clases de materiales de ingeniería?"
+        },
+        {
+            "id": 3,
+            "context": "",
+            "question": "¿Cuáles son algunas de las propiedades importantes de cada una de las cinco clases principales de materiales de ingeniería?"
+        },
+        {
+            "id": 4,
+            "context": "",
+            "question": "Define un material compuesto. Da un ejemplo de un material compuesto."
+        },
+        {
+            "id": 5,
+            "context": "",
+            "question": "Proporciona una lista de características para los materiales estructurales que se utilizarán en aplicaciones espaciales."
+        },
+        {
+            "id": 6,
+            "context": "",
+            "question": "Define los materiales inteligentes. Da un ejemplo de dicho material y una aplicación para él."
+        },
+        {
+            "id": 7,
+            "context": "",
+            "question": "¿Qué son los MEMs? Da una aplicación para los MEMs."
+        },
+        {
+            "id": 8,
+            "context": "",
+            "question": "¿Qué son los nanomateriales? ¿Cuáles son algunas de las ventajas propuestas de usar nanomateriales en lugar de sus contrapartes convencionales?"
+        },
+        {
+            "id": 9,
+            "context": "Las superaleaciones a base de níquel se utilizan en la estructura de los motores de turbina de las aeronaves.",
+            "question": "¿Cuáles son las principales propiedades de este metal que lo hacen adecuado para esta aplicación?"
+        },
+        {
+            "id": 10,
+            "context": "",
+            "question": "Haz una lista de objetos que encuentres en tu cocina (al menos 15 objetos). En cada objeto, determina la clase de materiales (identifica el material específico si puedes) utilizados en la estructura del objeto."
+        },
+        {
+            "id": 11,
+            "context": "",
+            "question": "Haz una lista de todos los componentes principales de la cancha de baloncesto de tu escuela. Para cada componente principal, determina la clase de materiales utilizados en su estructura (identifica los materiales específicos si puedes)."
+        },
+        {
+            "id": 12,
+            "context": "",
+            "question": "Haz una lista de los componentes principales de tu automóvil (al menos 15 componentes). Para cada componente, determina la clase de materiales utilizados en su estructura (identifica el material específico si puedes)."
+        },
+        {
+            "id": 13,
+            "context": "",
+            "question": "Haz una lista de los componentes principales de tu computadora (al menos 10 componentes). Para cada componente, determina la clase de materiales utilizados en su estructura (identifica el material específico si puedes)."
+        },
+        {
+            "id": 14,
+            "context": "",
+            "question": "Haz una lista de los componentes principales de tu aula, incluyendo los elementos constructivos (al menos 10 componentes). Para cada componente, determina la clase de materiales utilizados en su estructura (identifica el material específico si puedes)."
+        },
+        {
+            "id": 15,
+            "context": "",
+            "question": "Realiza una búsqueda sobre la historia de los \"automóviles\" e informa cómo ha cambiado el uso de varios tipos de materiales en la estructura de un automóvil en este campo a lo largo de los años."
+        },
+        {
+            "id": 16,
+            "context": "",
+            "question": "Realiza una búsqueda sobre la historia de las \"ruedas\" e informa sobre cómo ha cambiado el uso de materiales en este componente."
+        },
+        {
+            "id": 17,
+            "context": "",
+            "question": "Realiza una búsqueda sobre la historia de los \"medios de grabación\" e informa sobre cómo ha cambiado el uso de materiales en este campo a lo largo de los años."
+        },
+        {
+            "id": 18,
+            "context": "",
+            "question": "Realiza una búsqueda sobre la historia de los \"materiales para pistas de atletismo\" e informa sobre cómo ha cambiado el uso de materiales en este campo a lo largo de los años."
+        },
+        {
+            "id": 19,
+            "context": "",
+            "question": "Enumera algunos cambios en el uso de materiales que hayas observado durante un período de tiempo en algunos productos manufacturados. ¿Qué razones puedes dar para los cambios que han ocurrido?"
+        },
+        {
+            "id": 20,
+            "context": "",
+            "question": "¿Qué tipo de material es el cobre OFHC?"
+        },
+        {
+            "id": 21,
+            "context": "Con respecto al cobre OFHC,",
+            "question": "¿cuáles son sus propiedades deseables?"
+        },
+        {
+            "id": 22,
+            "context": "Con respecto al cobre OFHC,",
+            "question": "¿cuáles son sus aplicaciones en la industria energética?"
+        },
+        {
+            "id": 23,
+            "context": "",
+            "question": "¿A qué clase de materiales pertenece el PTFE?"
+        },
+        {
+            "id": 24,
+            "context": "Con respecto al PTFE,",
+            "question": "¿cuáles son sus propiedades deseables?"
+        },
+        {
+            "id": 25,
+            "context": "Con respecto al PTFE,",
+            "question": "¿cuáles son sus aplicaciones en las industrias de fabricación de utensilios de cocina?"
+        },
+        {
+            "id": 26,
+            "context": "",
+            "question": "¿Por qué los ingenieros civiles deben tener conocimientos sobre la composición, propiedades y procesamiento de los materiales?"
+        },
+        {
+            "id": 27,
+            "context": "",
+            "question": "¿Por qué los ingenieros mecánicos deben tener conocimientos sobre la composición, propiedades y procesamiento de los materiales?"
+        },
+        {
+            "id": 28,
+            "context": "",
+            "question": "¿Por qué los ingenieros químicos deben tener conocimientos sobre la composición, propiedades y procesamiento de los materiales?"
+        },
+        {
+            "id": 29,
+            "context": "",
+            "question": "¿Por qué los ingenieros oceánicos deben tener conocimientos sobre la composición, propiedades y procesamiento de los materiales?"
+        },
+        {
+            "id": 30,
+            "context": "",
+            "question": "¿Por qué los ingenieros petroleros deben tener conocimientos sobre la composición, propiedades y procesamiento de los materiales?"
+        },
+        {
+            "id": 31,
+            "context": "",
+            "question": "¿Por qué los ingenieros eléctricos deben tener conocimientos sobre la composición, propiedades y procesamiento de los materiales?"
+        },
+        {
+            "id": 32,
+            "context": "",
+            "question": "¿Por qué los ingenieros biomédicos deben tener conocimientos sobre la composición, propiedades y procesamiento de los materiales?"
+        },
+        {
+            "id": 33,
+            "context": "",
+            "question": "¿A qué clase de materiales pertenece el kevlar?"
+        },
+        {
+            "id": 34,
+            "context": "Con respecto al kevlar,",
+            "question": "¿cuáles son sus propiedades deseables?"
+        },
+        {
+            "id": 35,
+            "context": "Con respecto al kevlar,",
+            "question": "¿cuáles son sus aplicaciones en las industrias espaciales?"
+        },
+        {
+            "id": 36,
+            "context": "",
+            "question": "¿A qué clase de materiales pertenece el silicio?"
+        },
+        {
+            "id": 37,
+            "context": "Con respecto al silicio,",
+            "question": "¿cuáles son sus propiedades deseables?"
+        },
+        {
+            "id": 38,
+            "context": "Con respecto al silicio,",
+            "question": "¿cuáles son sus aplicaciones en las industrias de fabricación de chips?"
+        },
+        {
+            "id": 39,
+            "context": "",
+            "question": "¿A qué clase de materiales pertenece el óxido de circonio?"
+        },
+        {
+            "id": 40,
+            "context": "Con respecto al óxido de circonio,",
+            "question": "¿cuáles son sus propiedades deseables?"
+        },
+        {
+            "id": 41,
+            "context": "Con respecto al óxido de circonio,",
+            "question": "¿cuáles son sus aplicaciones en las industrias manufactureras?"
+        },
+        {
+            "id": 42,
+            "context": "",
+            "question": "¿Qué factores podrían hacer que las predicciones sobre el uso de materiales sean incorrectas?"
+        },
+        {
+            "id": 43,
+            "context": "Considera el componente doméstico común en una bombilla.",
+            "question": "Identifica varios componentes críticos de este artículo."
+        },
+        {
+            "id": 44,
+            "context": "Considera el componente doméstico común en una bombilla.",
+            "question": "Determina el material seleccionado para cada componente crítico."
+        },
+        {
+            "id": 45,
+            "context": "Considera el componente doméstico común en una bombilla.",
+            "question": "Diseña un proceso que se utilizaría para ensamblar la bombilla."
+        },
+        {
+            "id": 46,
+            "context": "",
+            "question": "Nombra los factores importantes en la selección de materiales para el cuadro de una bicicleta de montaña."
+        },
+        {
+            "id": 47,
+            "context": "El acero, el aluminio y las aleaciones de titanio se han utilizado como los metales primarios en la estructura de una bicicleta.",
+            "question": "Determina las principales debilidades y fortalezas de cada uno."
+        },
+        {
+            "id": 48,
+            "context": "Las bicicletas más modernas están hechas de compuestos avanzados.",
+            "question": "Explica por qué y nombra un compuesto específico utilizado en la estructura de una bicicleta."
+        },
+        {
+            "id": 49,
+            "context": "",
+            "question": "Nombra los criterios importantes para seleccionar materiales a utilizar en un casco deportivo de protección."
+        },
+        {
+            "id": 50,
+            "context": "Para un casco deportivo de protección,",
+            "question": "identifica materiales que satisfarían estos criterios."
+        },
+        {
+            "id": 51,
+            "context": "Para un casco deportivo de protección,",
+            "question": "¿por qué un casco de metal sólido no sería una buena elección?"
+        },
+        {
+            "id": 52,
+            "context": "",
+            "question": "¿Por qué es importante o útil clasificar los materiales en diferentes grupos como lo hemos hecho en este capítulo?"
+        },
+        {
+            "id": 53,
+            "context": "Una cierta aplicación requiere un material que debe ser muy duro y resistente a la corrosión a temperatura y atmósfera ambiente. Sería beneficioso, pero no necesario, si el material también fuera resistente al impacto.",
+            "question": "Si solo consideras los requisitos principales, ¿qué clases de materiales buscarías para esta selección?"
+        },
+        {
+            "id": 54,
+            "context": "Una cierta aplicación requiere un material que debe ser muy duro y resistente a la corrosión a temperatura y atmósfera ambiente. Sería beneficioso, pero no necesario, si el material también fuera resistente al impacto.",
+            "question": "Si consideras tanto los requisitos principales como los secundarios, ¿qué clases buscarías?"
+        },
+        {
+            "id": 55,
+            "context": "Una cierta aplicación requiere un material que debe ser muy duro, resistente a la corrosión e idealmente resistente al impacto.",
+            "question": "Sugiere un material."
+        },
+        {
+            "id": 56,
+            "context": "",
+            "question": "Da tantos ejemplos como puedas sobre cómo la ciencia e ingeniería de materiales es importante para el tema de la imagen de portada."
+        },
+        {
+            "id": 57,
+            "context": "",
+            "question": "Al seleccionar materiales para ser utilizados dentro del cuerpo humano, ¿cuáles son algunos de los factores principales que deben considerarse?"
+        },
+        {
+            "id": 58,
+            "context": "En el deporte del tenis, para un rendimiento óptimo, la cara de la raqueta y el mango deben estar hechos de un material que sea muy rígido (resistente a la deformación elástica).",
+            "question": "¿Por qué es esto importante?"
+        },
+        {
+            "id": "6.1",
+            "context": "",
+            "question": "(a) ¿Cómo se fabrican las aleaciones metálicas mediante el proceso de fundición? (b) Distingue entre productos de aleación forjada y productos de aleación fundida."
+        },
+        {
+            "id": "6.2",
+            "context": "",
+            "question": "¿Por qué los lingotes de chapa de metal fundido se laminan primero en caliente en lugar de laminarse en frío?"
+        },
+        {
+            "id": "6.3",
+            "context": "",
+            "question": "¿Qué tipo de tratamiento térmico se le da a la chapa de metal laminada después de la laminación en caliente y 'tibia'? ¿Cuál es su propósito?"
+        },
+        {
+            "id": "6.4",
+            "context": "Describe e ilustra los siguientes tipos de procesos de extrusión: (a) extrusión directa y (b) extrusión indirecta.",
+            "question": "¿Cuál es una ventaja de cada proceso?"
+        },
+        {
+            "id": "6.5",
+            "context": "Describe el proceso de forjado.",
+            "question": "¿Cuál es la diferencia entre el forjado con martillo y con prensa?"
+        },
+        {
+            "id": "6.6",
+            "context": "¿Cuál es la diferencia entre el forjado en matriz abierta y en matriz cerrada? Ilustra.",
+            "question": "Da un ejemplo de un producto metálico producido por cada proceso."
+        },
+        {
+            "id": "6.7",
+            "context": "Describe el proceso de trefilado de alambre.",
+            "question": "¿Por qué es necesario asegurarse de que la superficie del alambre entrante esté limpia y lubricada?"
+        },
+        {
+            "id": "6.8",
+            "context": "",
+            "question": "Distingue entre deformación elástica y plástica (usa esquemas)."
+        },
+        {
+            "id": "6.9",
+            "context": "",
+            "question": "Define (a) esfuerzo y deformación unitaria de ingeniería y (b) esfuerzo y deformación unitaria verdaderos. (c) ¿Cuáles son las unidades del sistema consuetudinario de EE. UU. y del SI para el esfuerzo y la deformación unitaria? (d) Distingue entre esfuerzo normal y esfuerzo cortante. (e) Distingue entre deformación unitaria normal y deformación unitaria por cortante."
+        },
+        {
+            "id": "6.10",
+            "context": "",
+            "question": "Define (a) módulo de elasticidad, (b) límite de fluencia, (c) resistencia última a la tracción, (d) módulo de resiliencia, (e) tenacidad, (f) coeficiente de Poisson, (g) ductilidad."
+        },
+        {
+            "id": "6.11",
+            "context": "",
+            "question": "(a) Define la dureza de un metal. (b) ¿Cómo se determina la dureza de un material mediante una máquina de ensayo de dureza?"
+        },
+        {
+            "id": "6.12",
+            "context": "",
+            "question": "¿Qué tipos de indentadores se utilizan en (a) el ensayo de dureza Brinell, (b) el ensayo de dureza Rockwell C y (c) el ensayo de dureza Rockwell B?"
+        },
+        {
+            "id": "6.13",
+            "context": "¿Qué son las bandas de deslizamiento y las líneas de deslizamiento?",
+            "question": "¿Qué causa la formación de bandas de deslizamiento en la superficie de un metal?"
+        },
+        {
+            "id": "6.14",
+            "context": "",
+            "question": "Describe el mecanismo de deslizamiento que permite que un metal se deforme plásticamente sin fracturarse."
+        },
+        {
+            "id": "6.15",
+            "context": "",
+            "question": "(a) ¿Por qué el deslizamiento en los metales suele ocurrir en los planos de mayor empaquetamiento? (b) ¿Por qué el deslizamiento en los metales suele ocurrir en las direcciones de mayor empaquetamiento?"
+        },
+        {
+            "id": "6.16",
+            "context": "",
+            "question": "(a) ¿Cuáles son los principales planos y direcciones de deslizamiento para los metales FCC? (b) ¿Cuáles son los principales planos y direcciones de deslizamiento para los metales BCC? (c) ¿Cuáles son los principales planos y direcciones de deslizamiento para los metales HCP?"
+        },
+        {
+            "id": "6.17",
+            "context": "",
+            "question": "¿Qué otros tipos de planos de deslizamiento son importantes además de los planos basales para los metales HCP con bajas relaciones c/a?"
+        },
+        {
+            "id": "6.18",
+            "context": "Define el esfuerzo cortante crítico resuelto para un monocristal de metal puro.",
+            "question": "¿Qué le sucede al metal desde el punto de vista macroscópico y de comportamiento una vez que se excede el esfuerzo cortante crítico resuelto?"
+        },
+        {
+            "id": "6.19",
+            "context": "",
+            "question": "Describe el proceso de maclado por deformación que ocurre en algunos metales cuando se deforman plásticamente."
+        },
+        {
+            "id": "6.20",
+            "context": "",
+            "question": "¿Cuál es la diferencia entre los mecanismos de deslizamiento y maclado de la deformación plástica de los metales?"
+        },
+        {
+            "id": "6.21",
+            "context": "",
+            "question": "¿Qué papel importante juega el maclado en la deformación plástica de los metales con respecto a la deformación de los metales por deslizamiento?"
+        },
+        {
+            "id": "6.22",
+            "context": "",
+            "question": "¿Mediante qué mecanismo los límites de grano fortalecen los metales?"
+        },
+        {
+            "id": "6.23",
+            "context": "",
+            "question": "¿Qué evidencia experimental muestra que los límites de grano detienen el deslizamiento en los metales policristalinos?"
+        },
+        {
+            "id": "6.24",
+            "context": "",
+            "question": "(a) Describe los cambios en la forma del grano que ocurren cuando una lámina de cobre aleado con una estructura de grano equiaxial original se lamina en frío con reducciones en frío del 30% y 50%. (b) ¿Qué le sucede a la subestructura de dislocaciones?"
+        },
+        {
+            "id": "6.25",
+            "context": "",
+            "question": "¿Cómo se ve afectada normalmente la ductilidad de un metal por el trabajo en frío? ¿Por qué?"
+        },
+        {
+            "id": "6.26",
+            "context": "(a) ¿Qué es el endurecimiento por solución sólida? Describe los dos tipos principales.",
+            "question": "(b) ¿Cuáles son dos factores importantes que afectan el endurecimiento por solución sólida?"
+        },
+        {
+            "id": "6.27",
+            "context": "",
+            "question": "¿Cuáles son las tres etapas metalúrgicas principales por las que pasa una lámina de metal trabajada en frío, como el aluminio o el cobre, a medida que se calienta desde la temperatura ambiente hasta una temperatura elevada justo por debajo de su punto de fusión?"
+        },
+        {
+            "id": "6.28",
+            "context": "Describe la microestructura de un metal de aleación de Al-0.8% Mg fuertemente trabajado en frío, observada con un microscopio óptico a 100x (ver Fig. 6.46a).",
+            "question": "Describe la microestructura del mismo material a 20,000x (ver Fig. 6.47a)."
+        },
+        {
+            "id": "6.29",
+            "context": "",
+            "question": "Describe lo que ocurre microscópicamente cuando una lámina de metal trabajada en frío, como el aluminio, se somete a un tratamiento térmico de recuperación."
+        },
+        {
+            "id": "6.30",
+            "context": "Cuando un metal trabajado en frío se calienta en el rango de temperatura donde tiene lugar la recuperación,",
+            "question": "¿cómo se ven afectados los siguientes aspectos: (a) tensiones residuales internas, (b) resistencia, (c) ductilidad y (d) dureza?"
+        },
+        {
+            "id": "6.31",
+            "context": "",
+            "question": "Describe lo que ocurre microscópicamente cuando una lámina de metal trabajada en frío, como el aluminio, se somete a un tratamiento térmico de recristalización."
+        },
+        {
+            "id": "6.32",
+            "context": "Cuando un metal trabajado en frío se calienta en el rango de temperatura donde tiene lugar la recristalización,",
+            "question": "¿cómo se ven afectados los siguientes aspectos: (a) tensiones residuales internas, (b) resistencia, (c) ductilidad y (d) dureza?"
+        },
+        {
+            "id": "6.33",
+            "context": "",
+            "question": "Describe dos mecanismos principales mediante los cuales puede ocurrir la recristalización primaria."
+        },
+        {
+            "id": "6.34",
+            "context": "",
+            "question": "¿Cuáles son los cinco factores importantes que afectan el proceso de recristalización en los metales?"
+        },
+        {
+            "id": "6.35",
+            "context": "",
+            "question": "¿Qué generalizaciones se pueden hacer sobre la temperatura de recristalización con respecto a (a) el grado de deformación, (b) la temperatura, (c) el tiempo de calentamiento a temperatura, (d) el tamaño de grano final y (e) la pureza del metal?"
+        },
+        {
+            "id": "6.36",
+            "context": "Define la superplasticidad y enumera las condiciones bajo las cuales se puede lograr la superplasticidad.",
+            "question": "¿Por qué es este un comportamiento importante?"
+        },
+        {
+            "id": "6.37",
+            "context": "",
+            "question": "Discute el principal mecanismo de deformación que resulta en una deformación plástica extensa en la superplasticidad."
+        },
+        {
+            "id": "6.38",
+            "context": "",
+            "question": "¿Por qué los materiales nanocristalinos son más fuertes? Responde basándote en la actividad de las dislocaciones."
+        },
+        {
+            "id": "6.39",
+            "context": "Una lámina de latón 70% Cu-30% Zn tiene 0.0955 cm de espesor y se lamina en frío con una reducción del 30% en el espesor.",
+            "question": "¿Cuál debe ser el espesor final de la lámina?"
+        },
+        {
+            "id": "6.40",
+            "context": "Una lámina de aleación de aluminio se lamina en frío un 30% hasta un espesor de 0.080 in.",
+            "question": "Si la lámina se lamina en frío posteriormente hasta un espesor final de 0.064 in., ¿cuál es el porcentaje total de trabajo en frío realizado?"
+        },
+        {
+            "id": "6.41",
+            "context": "",
+            "question": "Calcula el porcentaje de reducción en frío cuando un alambre de aluminio se trefila en frío desde un diámetro de 5.25 mm hasta un diámetro de 2.30 mm."
+        },
+        {
+            "id": "6.42",
+            "context": "Un alambre de latón se trefila en frío un 25% hasta un diámetro de 1.10 mm. Luego se trefila en frío adicionalmente hasta 0.900 mm.",
+            "question": "¿Cuál es el porcentaje total de reducción en frío?"
+        },
+        {
+            "id": "6.43",
+            "context": "",
+            "question": "¿Cuál es la relación entre la deformación unitaria de ingeniería y el porcentaje de elongación?"
+        },
+        {
+            "id": "6.44",
+            "context": "Una probeta de tracción de una lámina de latón para cartuchos tiene una sección transversal de 0.320 in. x 0.120 in. y una longitud calibrada de 2.00 in.",
+            "question": "Calcula la deformación unitaria de ingeniería que ocurrió durante un ensayo si la distancia entre las marcas de calibración es de 2.35 in. después del ensayo."
+        },
+        {
+            "id": "6.45",
+            "context": "Una varilla de 0.505 in. de diámetro de una aleación de aluminio se somete a tracción hasta la rotura en un ensayo de tracción.",
+            "question": "Si el diámetro final de la varilla en la superficie de fractura es de 0.440 in., ¿cuál es el porcentaje de reducción de área de la muestra debido al ensayo?"
+        },
+        {
+            "id": "6.46",
+            "context": "Los siguientes datos de esfuerzo-deformación de ingeniería se obtuvieron para un acero al carbono simple con 0.2% C.",
+            "question": "(a) Dibuja la curva de esfuerzo-deformación de ingeniería. (b) Estima el límite de fluencia del metal. (c) Determina la resistencia última a la tracción de la aleación. (d) Determina el porcentaje de elongación en la fractura. (e) Estima el módulo de resiliencia. (f) Estima la tenacidad del metal.\n\nTabla de datos:\nEsfuerzo de Ingeniería (ksi) | Deformación Unitaria de Ingeniería (in./in.)\n--- | ---\n0 | 0\n30 | 0.001\n55 | 0.002\n60 | 0.005\n68 | 0.01\n72 | 0.02\n74 | 0.04\n75 | 0.06\n76 | 0.08\n75 | 0.10\n73 | 0.12\n69 | 0.14\n65 | 0.16\n56 | 0.18\n51 | (Fractura) 0.19"
+        },
+        {
+            "id": "6.47",
+            "context": "En la Figura 6.23, estima la tenacidad de la lámina de aleación SAE 1340 y la N-155 recocida.",
+            "question": "¿Qué material tiene el módulo de elasticidad más alto?"
+        },
+        {
+            "id": "6.48",
+            "context": "Los siguientes datos de esfuerzo-deformación de ingeniería se obtuvieron al comienzo de un ensayo de tracción para un acero al carbono simple con 0.2% C.",
+            "question": "(a) Dibuja la curva de esfuerzo-deformación de ingeniería para estos datos. (b) Determina el límite de fluencia convencional al 0.2% para este acero. (c) Determina el módulo de elasticidad a tracción de este acero. (d) Estima el módulo de resiliencia. (Nota que estos datos solo proporcionan la parte inicial de la curva de esfuerzo-deformación.)\n\nTabla de datos:\nEsfuerzo de Ingeniería (ksi) | Deformación Unitaria de Ingeniería (in./in.)\n--- | ---\n0 | 0\n15 | 0.0005\n30 | 0.001\n40 | 0.0015\n50 | 0.0020\n60 | 0.0035\n66 | 0.004\n70 | 0.006\n72 | 0.008"
+        },
+        {
+            "id": "6.49",
+            "context": "En la Figura 6.23, estima la resistencia última a la tracción (UTS) para cada metal.",
+            "question": "Además, identifica el material con la mayor ductilidad."
+        },
+        {
+            "id": "6.50",
+            "context": "Una barra de ensayo de aleación de aluminio de 0.505 in. de diámetro se somete a una carga de 25,000 lb. Si el diámetro de la barra es de 0.490 in. a esta carga,",
+            "question": "determina (a) el esfuerzo y la deformación unitaria de ingeniería y (b) el esfuerzo y la deformación unitaria verdaderos."
+        },
+        {
+            "id": "6.51",
+            "context": "Una varilla de 20 cm de largo con un diámetro de 0.250 cm se carga con un peso de 5000 N. Si el diámetro disminuye a 0.210 cm,",
+            "question": "determina (a) el esfuerzo y la deformación unitaria de ingeniería a esta carga y (b) el esfuerzo y la deformación unitaria verdaderos a esta carga."
+        },
+        {
+            "id": "6.52",
+            "context": "Se aplica un esfuerzo de 75 MPa en la dirección [001] sobre un monocristal de cobre FCC.",
+            "question": "Calcula (a) el esfuerzo cortante resuelto que actúa sobre el sistema de deslizamiento (111) [101] y (b) el esfuerzo cortante resuelto que actúa sobre el sistema de deslizamiento (111) [110]. (c) Usando los datos de la Tabla 6.4, determina si ocurre deslizamiento en alguno de los sistemas anteriores."
+        },
+        {
+            "id": "6.53",
+            "context": "Se aplica un esfuerzo de 55 MPa en la dirección [001] de un monocristal de molibdeno BCC.",
+            "question": "Calcula (a) el esfuerzo cortante resuelto que actúa sobre el sistema (101) [111] y (b) el esfuerzo cortante resuelto que actúa sobre el sistema (110) [111]. (c) Usando los datos de la Tabla 6.4, determina si ocurre deslizamiento en alguno de los sistemas anteriores."
+        },
+        {
+            "id": "6.54",
+            "context": "El límite de fluencia más alto de un monocristal de cobre se indica en la Tabla 6.4 como 0.94 MPa. El límite de fluencia del mismo metal pero en forma policristalina se indica como aproximadamente 6 MPa.",
+            "question": "¿Cómo explicas la diferencia?"
+        },
+        {
+            "id": "6.55",
+            "context": "Una varilla de 2 pulgadas de un espécimen metálico se comprime a la mitad de su longitud.",
+            "question": "Determina tanto la deformación unitaria de ingeniería como la verdadera en este punto. Compara los valores y saca una conclusión."
+        },
+        {
+            "id": "6.56",
+            "context": "",
+            "question": "Compara el límite de fluencia de un espécimen de cobre con un diámetro de grano promedio de 0.8 µm con otro espécimen de cobre con un diámetro de grano promedio de 80 nm usando la ecuación de Hall-Petch."
+        },
+        {
+            "id": "6.57",
+            "context": "Un espécimen de titanio comercialmente puro tiene una resistencia de 140 MPa.",
+            "question": "Estima su diámetro de grano promedio usando la ecuación de Hall-Petch."
+        },
+        {
+            "id": "6.58",
+            "context": "El diámetro de grano promedio de una aleación de aluminio es de 14 µm con una resistencia de 185 MPa. La misma aleación con un diámetro de grano promedio de 50 µm tiene una resistencia de 140 MPa.",
+            "question": "(a) Determina las constantes para la ecuación de Hall-Petch para esta aleación. (b) ¿Cuánto más deberías reducir el tamaño del grano si desearas una resistencia de 220 MPa?"
+        },
+        {
+            "id": "6.59",
+            "context": "Una varilla de cobre libre de oxígeno debe tener una resistencia a la tracción de 50.0 ksi y un diámetro final de 0.250 in.",
+            "question": "(a) ¿Qué cantidad de trabajo en frío debe sufrir la varilla (ver Fig. 6.43)? (b) ¿Cuál debe ser el diámetro inicial de la varilla?"
+        },
+        {
+            "id": "6.60",
+            "context": "Una lámina de latón 70% Cu-30% Zn se va a laminar en frío de 0.070 a 0.040 in.",
+            "question": "(a) Calcula el porcentaje de trabajo en frío, y (b) estima la resistencia a la tracción, el límite de fluencia y la elongación a partir de la Figura 6.44."
+        },
+        {
+            "id": "6.61",
+            "context": "Un alambre de latón 70% Cu-30% Zn se trefila en frío un 20% hasta un diámetro de 2.80 mm. El alambre se trefila luego adicionalmente hasta un diámetro de 2.45 mm.",
+            "question": "(a) Calcula el porcentaje total de trabajo en frío que sufre el alambre. (b) Estima la resistencia a la tracción, el límite de fluencia y la elongación del alambre a partir de la Figura 6.44."
+        },
+        {
+            "id": "6.62",
+            "context": "Si se necesitan 115 h para recristalizar al 50% una lámina de aleación de aluminio 1100-H18 a 250°C y 10 h a 285°C,",
+            "question": "calcula la energía de activación en kilojulios por mol para este proceso. Asume un comportamiento de velocidad tipo Arrhenius."
+        },
+        {
+            "id": "6.63",
+            "context": "Si se necesitan 12.0 min para recristalizar al 50% una pieza de lámina de cobre de alta pureza a 140°C y 200 min a 88°C,",
+            "question": "¿cuántos minutos se requieren para recristalizar la lámina al 50% a 100°C? Asume un comportamiento de velocidad tipo Arrhenius."
+        },
+        {
+            "id": "6.64",
+            "context": "Si se necesitan 80 h para recristalizar completamente una lámina de aluminio a 250°C y 6 h a 300°C,",
+            "question": "calcula la energía de activación en kilojulios por mol para este proceso. Asume un comportamiento de velocidad tipo Arrhenius."
+        },
+        {
+            "id": "6.65",
+            "context": "¿Cómo fabricarías grandes hélices para barcos grandes?",
+            "question": "¿Qué factores influirían en la selección del material para esta aplicación?"
+        },
+        {
+            "id": "6.66",
+            "context": "Si tuvieras que hacer un gran número de componentes de oro, plata u otros metales preciosos,",
+            "question": "¿qué proceso de conformado de metales usarías y por qué?"
+        },
+        {
+            "id": "6.67",
+            "context": "Una varilla de 20 mm de diámetro y 350 mm de largo hecha de una aleación de aluminio 7075-T6 (usa la Figura 6.20 para estimar propiedades) se usa en aeronaves.",
+            "question": "Determina la elongación en la varilla si se aplica una carga de 60 kN. ¿Qué porcentaje de esta elongación es elástica? ¿A qué carga cede la varilla? ¿Cuál es la carga máxima que la barra puede soportar sin fracturarse?"
+        },
+        {
+            "id": "6.68",
+            "context": "Si tuvieras que seleccionar un material para la construcción de un brazo robótico que resultara en la menor cantidad de deformación elástica (importante para la precisión posicional del brazo) y el peso no fuera un criterio crítico,",
+            "question": "¿cuál de los metales dados en la Figura 6.23 seleccionarías? ¿Por qué?"
+        },
+        {
+            "id": "6.69",
+            "context": "Considera la fundición de una carcasa cilíndrica gruesa hecha de hierro fundido.",
+            "question": "Si el proceso de fundición se controla de tal manera que la solidificación tiene lugar desde las paredes internas del tubo hacia afuera, y a medida que las capas externas se solidifican, se contraen y comprimen las capas internas, ¿cuál sería la ventaja de las tensiones de compresión desarrolladas?"
+        },
+        {
+            "id": "6.70",
+            "context": "Considera fundir un cubo y una esfera del mismo volumen y del mismo metal.",
+            "question": "¿Cuál se solidificaría más rápido? ¿Por qué?"
+        },
+        {
+            "id": "6.71",
+            "context": "Los datos de carga versus deformación en el ensayo de tracción de un espécimen de metal desconocido se dan en la siguiente tabla:",
+            "question": "Tabla de datos:\nCarga (lb) | Elongación (in.)\n--- | ---\n0 | 0\n2,500 | 0.0020\n4,900 | 0.0040\n13,000 | 0.010\n19,000 | 0.014\n20,000 | 0.026\n21,100 | 0.060\n22,200 | 0.11\n23,000 | 0.16\n21,000 | 0.19\n18,250 | 0.21\n17,250 | 0.22\n15,250 | 0.23 (fractura)\n\nDibuja el diagrama de carga-deformación para el metal desconocido. Estima (a) la carga a la que ocurre la fluencia, (b) la pendiente de la porción recta de la curva, (c) la carga última, (d) la elongación en la rotura, (e) la energía bajo la porción lineal de la curva. ¿Te dice algo esta curva sobre las propiedades generales del material del metal desconocido?"
+        },
+        {
+            "id": "6.72",
+            "context": "En el Problema 6.71, si el espécimen tiene un área de sección transversal de 0.25 in.² y una longitud calibrada de 2 in.,",
+            "question": "dibuja el diagrama de esfuerzo-deformación de ingeniería para el metal desconocido. Estima (a) el límite de fluencia convencional al 0.2%, (b) el módulo de elasticidad, (c) la resistencia última a la tracción, (d) el porcentaje de elongación en la rotura, (e) el módulo de resiliencia, y (f) la tenacidad. ¿Cuál es la diferencia entre los resultados aquí y los del problema anterior? ¿Cuál de estas propiedades puede ayudarte a identificar la categoría general de la aleación metálica?"
+        },
+        {
+            "id": "6.73",
+            "context": "Al fabricar formas complejas mediante operaciones de forjado en frío o laminado de perfiles, las propiedades mecánicas como el límite de fluencia, la resistencia a la tracción y la ductilidad se miden de manera diferente según la ubicación y la dirección en la pieza fabricada.",
+            "question": "(a) ¿Cómo explicas esto desde un punto de vista microescalar? (b) ¿Ocurrirá esto durante el forjado o laminado en caliente? Explica tu respuesta."
+        },
+        {
+            "id": "6.74",
+            "context": "",
+            "question": "(a) Establece la suposición detrás del desarrollo de la Ec. 6.15. (b) ¿Es la Ec. 6.15 (o su suposición subyacente) válida en toda la curva de esfuerzo-deformación de ingeniería?"
+        },
+        {
+            "id": "6.75",
+            "context": "Dibuja un diagrama genérico de esfuerzo-deformación de ingeniería para un metal dúctil y resalta los puntos de resistencia clave (límite de fluencia, resistencia última y resistencia a la fractura) en la curva.",
+            "question": "(a) Esquemáticamente, muestra qué sucede si cargas el espécimen justo por debajo de su punto de fluencia y luego lo descargas a cero. (b) ¿Se comportará el espécimen de manera diferente si lo cargas de nuevo? Explica."
+        },
+        {
+            "id": "6.76",
+            "context": "(a) Dibuja un diagrama genérico de esfuerzo-deformación de ingeniería para un metal dúctil y resalta los puntos de resistencia clave (límite de fluencia, resistencia última y resistencia a la fractura) en la curva.",
+            "question": "Esquemáticamente, muestra qué sucede si cargas el espécimen justo por debajo de su punto de resistencia última a la tracción y luego lo descargas a cero. (b) ¿Se comportará el espécimen de manera diferente si lo cargas de nuevo? Explica."
+        },
+        {
+            "id": "6.77",
+            "context": "",
+            "question": "(a) Deriva la relación entre la deformación unitaria verdadera y la deformación unitaria de ingeniería. (Pista: Comienza con la expresión para la deformación unitaria de ingeniería.) (b) Deriva una relación entre el esfuerzo verdadero y la deformación unitaria de ingeniería. (Pista: Comienza con σ_t = F/A_i = (F/A_o)(A_o/A_i).)"
+        },
+        {
+            "id": "6.78",
+            "context": "El límite de fluencia de ingeniería de una aleación de cobre es de 23.9 ksi y el módulo de elasticidad es de 16 x 10^6 psi.",
+            "question": "(a) Estima la deformación unitaria de ingeniería justo antes de la fluencia. (b) ¿Cuál es la deformación unitaria verdadera correspondiente? ¿Te sorprende? Explica."
+        },
+        {
+            "id": "6.79",
+            "context": "Para la aleación del Problema 6.77, la resistencia última a la tracción de ingeniería es de 38.8 ksi donde la deformación unitaria de ingeniería correspondiente es de 0.18. La reducción de área justo antes de la fractura se mide en un 34%.",
+            "question": "Determina (a) el esfuerzo verdadero correspondiente a la resistencia última a la tracción de ingeniería y (b) la deformación unitaria verdadera justo antes de la fractura."
+        },
+        {
+            "id": "6.80",
+            "context": "El material para una varilla de área de sección transversal de 2.70 in.² y longitud de 75.0 in. debe seleccionarse de tal manera que bajo una carga axial de 120,000.0 lb, no ceda y la elongación en la barra permanezca por debajo de 0.105 in.",
+            "question": "(a) Proporciona una lista de al menos tres metales diferentes que satisfarían estas condiciones. (b) Reduce la lista si el costo es un problema. (c) Reduce la lista si la corrosión es un problema. Usa el Apéndice I para propiedades y costo de aleaciones comunes únicamente."
+        },
+        {
+            "id": "6.81",
+            "context": "",
+            "question": "¿Qué te dicen E, G, v, Ur y la tenacidad sobre un material (explica el significado físico de cada uno a alguien que no sea ingeniero)?"
+        },
+        {
+            "id": "6.82",
+            "context": "Un componente cilíndrico se carga en tensión hasta que el área de la sección transversal se reduce en un 25% (el espécimen no presenta estricción ni se fractura).",
+            "question": "(a) Determina la deformación unitaria verdadera para el espécimen a este nivel de carga. (b) Si tuvieras que calcular el esfuerzo uniaxial en el espécimen bajo las condiciones dadas, ¿usarías el esfuerzo verdadero o el esfuerzo de ingeniería? Apoya tu respuesta mostrando la diferencia."
+        },
+        {
+            "id": "6.83",
+            "context": "Refiriéndose a las Figuras 6.20 y 6.21 (lee los pies de figura para más detalles),",
+            "question": "determina (a) el cambio de longitud del espécimen de aluminio (longitud calibrada) cuando el esfuerzo de ingeniería alcanza los 85 ksi. (b) Si en este punto el espécimen se descarga lentamente a carga cero, ¿cuál será la longitud del espécimen en estado descargado? (Muestra la curva de descarga esquemáticamente)."
+        },
+        {
+            "id": "6.84",
+            "context": "",
+            "question": "(a) Muestra, usando la definición del coeficiente de Poisson, que sería imposible tener un coeficiente de Poisson negativo para materiales isótropos. (b) ¿Qué significaría para un material tener un coeficiente de Poisson negativo?"
+        },
+        {
+            "id": "6.85",
+            "context": "Un cubo de una pulgada de acero inoxidable templado (aleación 316) se carga a lo largo de su dirección z bajo un esfuerzo de tracción de 60.00 ksi.",
+            "question": "(a) Dibuja un esquema del cubo antes y después de la carga, mostrando los cambios en la dimensión. (b) Repite el problema asumiendo que el cubo está hecho de aluminio templado (aleación 2024). Usa la Figura 6.15b y el Apéndice I para los datos relevantes."
+        },
+        {
+            "id": "6.86",
+            "context": "Un cubo de una pulgada de acero inoxidable templado (aleación 316) se carga en la misma cara con un esfuerzo cortante de 30.00 ksi.",
+            "question": "Dibuja un esquema del cubo antes y después de la carga, mostrando cualquier cambio en la forma. (G = 11.01 x 10^6 psi; usa Fig. 6.17c)"
+        },
+        {
+            "id": "6.87",
+            "context": "Se ensaya la dureza de tres aleaciones metálicas diferentes utilizando la escala Rockwell. El Metal 1 fue calificado con 60 RB, el Metal 2 con 60 RC y el Metal 3 con 60 RF.",
+            "question": "¿Qué te dicen estas calificaciones sobre estos metales? Da un ejemplo de un componente que esté hecho de un metal que tenga una dureza de alrededor de 60 RC."
+        },
+        {
+            "id": "6.88",
+            "context": "Un compañero de estudios te pregunta: '¿Cuál es el límite de fluencia del titanio?'",
+            "question": "¿Puedes responder a esta pregunta? Explica."
+        },
+        {
+            "id": "6.89",
+            "context": "Un compañero de estudios te pregunta: '¿Cuál es el módulo de elasticidad del acero al carbono simple?'",
+            "question": "¿Puedes responder a esta pregunta? Explica."
+        },
+        {
+            "id": "6.90",
+            "context": "Un compañero de estudios te pregunta: '¿Cuál es la dureza del aluminio?'",
+            "question": "¿Puedes responder a esta pregunta? Explica."
+        },
+        {
+            "id": "6.91",
+            "context": "",
+            "question": "¿Por qué los metales BCC en general requieren un valor de τr más alto que los metales FCC cuando ambos tienen el mismo número de sistemas de deslizamiento?"
+        },
+        {
+            "id": "6.92",
+            "context": "El esfuerzo cortante resuelto para el cristal es de 0.85 MPa.",
+            "question": "Determina el esfuerzo de tracción que debe aplicarse al eje [110] de un monocristal de cobre de alta pureza para causar deslizamiento en el sistema de deslizamiento (111)[011]."
+        },
+        {
+            "id": "6.93",
+            "context": "En la carga de un monocristal,",
+            "question": "(a) determina los ángulos φ y λ para los cuales ocurre el máximo esfuerzo cortante resuelto. (b) ¿Cuál será el esfuerzo cortante resuelto en esta posición (en términos de σ)?"
+        },
+        {
+            "id": "6.94",
+            "context": "(a) En la carga de un monocristal, ¿cómo orientarías el cristal con respecto al eje de carga para causar un esfuerzo cortante resuelto de cero?",
+            "question": "(b) ¿Cuál es el significado físico de esto, es decir, bajo estas condiciones, qué le sucede al cristal a medida que σ aumenta?"
+        },
+        {
+            "id": "6.95",
+            "context": "Partiendo de una varilla de latón de 2 pulgadas de diámetro, nos gustaría procesar varillas de 0.2 pulgadas de diámetro que posean un límite de fluencia mínimo de 40 ksi y una elongación mínima a la fractura del 40% (ver Fig. 6.44).",
+            "question": "Diseña un proceso que logre eso. Pista: la reducción del diámetro directamente de 2 in. a 0.6 in. no es posible; ¿por qué?"
+        },
+        {
+            "id": "6.96",
+            "context": "",
+            "question": "¿Por qué es difícil mejorar simultáneamente la resistencia y la ductilidad?"
+        },
+        {
+            "id": "6.97",
+            "context": "Para una aplicación dada, se va a utilizar una varilla de cobre de una pulgada de diámetro. Tienes disponibles varillas de cobre de varias secciones transversales; sin embargo, todas las barras están completamente recocidas con un límite de fluencia de 10.0 ksi. El material debe tener un límite de fluencia de al menos 30.0 ksi y una capacidad de elongación de al menos 20.0%.",
+            "question": "Diseña un proceso que logre los objetivos esperados. Usa la Figura 6.43 para tu solución."
+        },
+        {
+            "id": "6.98",
+            "context": "Sin consultar datos o tablas de resistencia a la tracción,",
+            "question": "¿cuál de las siguientes soluciones sólidas sustitucionales seleccionarías si el criterio de selección fuera una mayor resistencia a la tracción: Cu-30% en peso de Zn o Cu-30% en peso de Ni? Pista: Compara las temperaturas de fusión de Cu, Ni y Zn."
+        },
+        {
+            "id": "6.99",
+            "context": "Las aleaciones de solución sólida sustitucional de cuproníquel Cu-40% en peso de Ni y Ni-10% en peso de Cu tienen resistencias a la tracción similares.",
+            "question": "Para una aplicación dada en la que solo es importante la resistencia a la tracción, ¿cuál seleccionarías?"
+        },
+        {
+            "id": "6.100",
+            "context": "En el proceso de laminación, la selección del material del rodillo es crítica.",
+            "question": "Basado en tu conocimiento tanto de la laminación en caliente como en frío, ¿qué propiedades debería tener el material del rodillo?"
+        }
+    ]
+}
